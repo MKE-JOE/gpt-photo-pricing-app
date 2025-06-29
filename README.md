@@ -1,4 +1,4 @@
-# GPT-Powered Photo Price Checker (Project Origin)
+# GPT-Powered Photo Price Checker (Snap2Value Project Origin)
 
 This repository represents the original development of an AI-powered tool that allows users to snap a photo of a secondhand or vintage item and receive an estimated resale value based on real-time market data.
 
@@ -20,7 +20,7 @@ Any other uses of similar names, branding, or feature sets that do not originate
 ### 🌐 Official Project Domain
 
 Visit the official project site:  
-➡️ [https://snapvalueapp.com](https://snapvalueapp.com)
+➡️ [https://snap2value.com](https://snap2value.com)
 
 ---
 
